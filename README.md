@@ -45,5 +45,5 @@ I am currently working on improving my projects and will showcase my best work h
 
 ## 📫 Connect With Me
 
-* GitHub: @YOUR-GITHUB-USERNAME
+* GitHub: zainnaseer207
 * LinkedIn: www.linkedin.com/in/zainnaseer207
