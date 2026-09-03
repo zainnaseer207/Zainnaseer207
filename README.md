@@ -46,4 +46,4 @@ I am currently working on improving my projects and will showcase my best work h
 ## 📫 Connect With Me
 
 * GitHub: @YOUR-GITHUB-USERNAME
-* LinkedIn: Coming Soon
+* LinkedIn: www.linkedin.com/in/zainnaseer207
