@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Zain Naseer 👋
 
-<!--
-**zainnaseer207/Zainnaseer207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student
+🌱 Currently learning Software Development
+🐍 Interested in Python, Web Development and Automation
+🚀 Building projects and improving my skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- C++
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Goals
+- Build strong real-world projects
+- Improve problem-solving skills
+- Learn professional software development
+- Prepare for internships and software house jobs
+
+## 📫 Connect With Me
+LinkedIn: Add your LinkedIn link
+Email: Add professional email
